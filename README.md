@@ -69,8 +69,8 @@ GET  /api/files/{id}      - Download/view uploaded files
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd edtech-assignment-tracker
+   git clone <https://github.com/latha0001/ED-Tech>
+   cd ED-Tech
    ```
 
 2. **Install dependencies**
