@@ -85,6 +85,7 @@ GET  /api/files/{id}      - Download/view uploaded files
 
 4. **Open your browser**
    Navigate to `http://localhost:5173`
+   Vercel Demo Live Link : https://76543.vercel.app/
 
 ### Demo Credentials
 
